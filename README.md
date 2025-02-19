@@ -17,7 +17,6 @@
 ## 🎵 Now listening...
 
 <p align="center">
-    <a href="https://github.com/kittinan/spotify-github-profile">
         <img height="200" src="https://spotify-github-profile.kittinan.github.io/api/view?uid=2qo7usk4528tcpkpphg41jmf8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=7012ed&bar_color_cover=false" alt="Spotify Now Playing">
     </a>
 </p>
