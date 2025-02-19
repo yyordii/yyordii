@@ -1,20 +1,13 @@
 ## 🚀 Experience
 
 <p align="center">
-  <a href="#"><img height="40" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="#"><img height="40" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="#"><img height="40" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-  <a href="#"><img height="40" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
-  <a href="#"><img height="40" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-  <a href="#"><img height="40" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/></a>
-</p>
-
-### 🎨 Design Tools
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,mongodb,mysql,java,spring,js,nodejs,react,express,html,css,bootstrap,php" alt="My Skills">
   </a>
 </p>
+
+
+
 
 ---
 
