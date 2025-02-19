@@ -1,7 +1,7 @@
 ## 🚀 Experience
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,mongodb,mysql,java,spring,js,nodejs,react,express,html,css,bootstrap,php" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=github,mongodb,mysql,java,spring,js,nodejs,react,express,html,css,php" alt="My Skills">
 </p>
 
 ---
