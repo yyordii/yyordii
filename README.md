@@ -22,6 +22,6 @@
 ## 🎵 Now listening...
 <p align="center">
   <a href="">
-    <img height="200" src="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=2qo7usk4528tcpkpphg41jmf8&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=7012ed&bar_color_cover=false)]]"/>
+    <img height="200" src="https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=2qo7usk4528tcpkpphg41jmf8&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=7012ed&bar_color_cover=false)]]"/>
   </a>
 </p>
