@@ -16,5 +16,5 @@
 ## 🎵 Now listening...
 
 <p align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2qo7usk4528tcpkpphg41jmf8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2qo7usk4528tcpkpphg41jmf8&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile">
 </p>
